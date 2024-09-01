@@ -1,5 +1,6 @@
 {
   "files": [
-    "github.json"
+    "github.json",
+    "github.module.json"
   ]
 }
