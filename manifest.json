@@ -1,6 +1,7 @@
 {
   "files": [
     "github.json",
-    "github.module.json"
+    "github.module.json",
+    "auth.page.json"
   ]
 }
